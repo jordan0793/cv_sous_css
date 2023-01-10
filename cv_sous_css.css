@@ -1,0 +1,24 @@
+body {
+    font-family: "Action Man";
+}
+.experience
+{
+    color: red;
+    text-align: center;
+    border: black 2px solid;
+    box-shadow: 6px 6px 0px black;
+}
+.title
+{
+    text-align: center;
+}
+body{
+    background-image: url(./background/afpa.png);
+    background-position-x: center;
+
+}
+@font-face {
+    font-family: "Action Man";
+    src: url(./police/Action_Man.ttf);
+}
+
